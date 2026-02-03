@@ -1,0 +1,7 @@
+[server]
+enableWebsocketCompression = false
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false
